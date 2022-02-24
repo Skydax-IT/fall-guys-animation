@@ -14,6 +14,6 @@ The project contains two main files:
 
 ## Authors
 - Enzo "Skydax-IT" Licata
--Théo "Tyriaax" Lieffroy
+- Théo "Tyriaax" Lieffroy
 
 
